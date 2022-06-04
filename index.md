@@ -6,5 +6,5 @@
 
 [日常]()
 
-[王老师语录]()
-#
+[王老师语录](https://herobrine6265.github.io/MyBlog/%E7%8E%8B%E8%80%81%E5%B8%88%E8%AF%AD%E5%BD%95)
+
